@@ -47,7 +47,7 @@ Mi objetivo actual es **conseguir mi primera experiencia profesional** en el sec
 
 ### 🚀 Proyectos destacados
 
-#### 📝 [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-angular-spring)
+#### 🗒️ [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-angular-spring)
 Aplicación web de tipo blog con gestión completa de publicaciones (crear, editar, eliminar y consultar).
 Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.  
 Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con una arquitectura desacoplada.  
