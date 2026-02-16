@@ -52,7 +52,7 @@ Aplicación web de tipo blog con gestión completa de publicaciones (crear, edit
 Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.  
 Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con una arquitectura desacoplada.  
 
-#### 📝 [To-Do List App (Spring Boot + Thymeleaf + MySQL)](https://github.com/cesarmilan16/todolist-springmvc)
+#### 📝 [To-Do List App (Spring Boot + Thymeleaf + MySQL)](https://github.com/cesarmilan16/todolist-spring-mvc)
 Aplicación web donde cada usuario puede registrarse, iniciar sesión y gestionar su propia lista de tareas.  
 Desarrollada con **Spring Boot MVC**, usando **Hibernate/JPA** para la persistencia y vistas dinámicas con **Thymeleaf**.
 
