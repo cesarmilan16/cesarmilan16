@@ -56,7 +56,7 @@ Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con un
 Aplicación web donde cada usuario puede registrarse, iniciar sesión y gestionar su propia lista de tareas.  
 Desarrollada con **Spring Boot MVC**, usando **Hibernate/JPA** para la persistencia y vistas dinámicas con **Thymeleaf**.
 
-#### 🛒 [3D Figures Store (Next.js + Strapi + AWS S3)](https://github.com/cesarmilan16/3d-figures-store)
+#### 🛒 [3D Figures Store (Next.js + Strapi + AWS S3)](https://github.com/cesarmilan16/ecommerce3d-next)
 E-commerce para figuras impresas en 3D, con gestión de productos desde el panel de administración (Strapi)  
 y conexión con almacenamiento en **AWS S3**. Proyecto con enfoque **full-stack moderno**.
 
