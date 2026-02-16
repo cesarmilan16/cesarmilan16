@@ -52,11 +52,11 @@ Aplicación web de tipo blog con gestión completa de publicaciones (crear, edit
 Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.  
 Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con una arquitectura desacoplada.  
 
-#### 📝 [To-Do List App (Spring Boot + Thymeleaf + MySQL)](https://github.com/tuusuario/todolist-springmvc)
+#### 📝 [To-Do List App (Spring Boot + Thymeleaf + MySQL)](https://github.com/cesarmilan16/todolist-springmvc)
 Aplicación web donde cada usuario puede registrarse, iniciar sesión y gestionar su propia lista de tareas.  
 Desarrollada con **Spring Boot MVC**, usando **Hibernate/JPA** para la persistencia y vistas dinámicas con **Thymeleaf**.
 
-#### 🛒 [3D Figures Store (Next.js + Strapi + AWS S3)](https://github.com/tuusuario/3d-figures-store)
+#### 🛒 [3D Figures Store (Next.js + Strapi + AWS S3)](https://github.com/cesarmilan16/3d-figures-store)
 E-commerce para figuras impresas en 3D, con gestión de productos desde el panel de administración (Strapi)  
 y conexión con almacenamiento en **AWS S3**. Proyecto con enfoque **full-stack moderno**.
 
@@ -73,7 +73,7 @@ Actualmente estoy profundizando en:
 ### 🤝 Contacto
 
 📫 **Email:** [cesarmilan16@gmail]  
-🌐 **Portfolio:** [En proceso...]  
+🌐 **Portfolio:** [[https://cesarmilandev.com/](https://cesarmilandev.com/)]  
 💼 **LinkedIn:** [https://www.linkedin.com/in/cesarmilan16/]
 
 ---
