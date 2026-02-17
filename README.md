@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 ¡Hola! Soy César Fernández Milán</h1>
 
-<h3 align="center">💻 Desarrollador Web Júnior | Full-Stack | Graduado en DAW</h3>
+<h3 align="center">💻 Desarrollador Web Junior | Full-Stack | Graduado en DAW</h3>
 
 ---
 
