@@ -47,7 +47,7 @@ Mi objetivo actual es **conseguir mi primera experiencia profesional** en el sec
 
 ### 🚀 Proyectos destacados
 
-#### 🤖 [TrainIA (Angular + Node.js + IA + SQLite)]((https://github.com/cesarmilan16/trainia))
+#### 🤖 [TrainIA (Angular + Node.js + IA + SQLite)](https://github.com/cesarmilan16/trainia)
 
 Aplicación full-stack que genera **planes de entrenamiento personalizados utilizando IA**.
 Permite crear entrenamientos a partir de distintos parámetros, consultar un historial, ver el detalle de cada plan y regenerarlo si es necesario.
