@@ -66,7 +66,7 @@ Stack: **Angular, Node.js, Express, SQLite, Docker**
 
 ---
 
-#### 🗒️ [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-angular-spring)
+#### 🗒️ [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-serv)
 
 Aplicación web de tipo blog con gestión completa de publicaciones (crear, editar, eliminar y consultar).
 Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.
