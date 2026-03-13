@@ -47,18 +47,51 @@ Mi objetivo actual es **conseguir mi primera experiencia profesional** en el sec
 
 ### 🚀 Proyectos destacados
 
-#### 🗒️ [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-angular-spring)
-Aplicación web de tipo blog con gestión completa de publicaciones (crear, editar, eliminar y consultar).
-Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.  
-Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con una arquitectura desacoplada.  
+#### 🤖 [TrainIA (Angular + Node.js + IA + SQLite)](https://trainingia.cesarmilandev.com)
 
-#### 📝 [To-Do List App (Spring Boot + Thymeleaf + MySQL)](https://github.com/cesarmilan16/todolist-spring-mvc)
-Aplicación web donde cada usuario puede registrarse, iniciar sesión y gestionar su propia lista de tareas.  
+Aplicación full-stack que genera **planes de entrenamiento personalizados utilizando IA**.
+Permite crear entrenamientos a partir de distintos parámetros, consultar un historial, ver el detalle de cada plan y regenerarlo si es necesario.
+El backend procesa las solicitudes de forma **asíncrona** y gestiona estados como `GENERATING`, `COMPLETED` y `FAILED`.
+
+Stack: **Angular 21, Node.js, Express, Zod, SQLite, OpenAI API, Tailwind CSS, Docker**
+
+---
+
+#### 🏋️ [TrainLog (Angular + Node.js + SQLite)](https://github.com/cesarmilan16/trainlog)
+
+Aplicación web para **gestionar entrenamientos entre entrenadores y clientes**.
+Permite crear y asignar entrenamientos, registrar ejercicios y guardar el histórico de cambios de peso para cada ejercicio.
+
+Stack: **Angular, Node.js, Express, SQLite, Docker**
+
+---
+
+#### 🗒️ [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-angular-spring)
+
+Aplicación web de tipo blog con gestión completa de publicaciones (crear, editar, eliminar y consultar).
+Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.
+Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con una arquitectura desacoplada.
+
+Stack: **Spring Boot, Java, Hibernate, JPA, Angular, MySQL, Docker**
+
+---
+
+#### 📝 [To-Do List App (Spring Boot MVC + Thymeleaf + MySQL)](https://github.com/cesarmilan16/todolist-spring-mvc)
+
+Aplicación web donde cada usuario puede registrarse, iniciar sesión y gestionar su propia lista de tareas.
 Desarrollada con **Spring Boot MVC**, usando **Hibernate/JPA** para la persistencia y vistas dinámicas con **Thymeleaf**.
 
+Stack: **Spring Boot, Java, Thymeleaf, Hibernate, MySQL**
+
+---
+
 #### 🛒 [3D Figures Store (Next.js + Strapi + AWS S3)](https://github.com/cesarmilan16/ecommerce3d-next)
-E-commerce para figuras impresas en 3D, con gestión de productos desde el panel de administración (Strapi)  
-y conexión con almacenamiento en **AWS S3**. Proyecto con enfoque **full-stack moderno**.
+
+E-commerce para figuras impresas en 3D, con gestión de productos desde el panel de administración (**Strapi**)
+y almacenamiento de imágenes en **AWS S3**.
+
+Stack: **Next.js, React, Strapi, Node.js, AWS S3**
+
 
 ---
 
