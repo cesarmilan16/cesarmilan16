@@ -95,11 +95,23 @@ Stack: **Next.js, React, Strapi, Node.js, AWS S3**
 
 ---
 
+
+#### 🤖 [AgentJobs (Python + OpenAI + Playwright + Docker)](https://github.com/cesarmilan16/AgentJobs)
+
+Agente autónomo que recopila ofertas de empleo de **LinkedIn, Indeed, InfoJobs y Tecnoempleo**, las filtra con reglas de descarte y las puntúa del 0 al 100 con **IA**, notificando solo las más relevantes por **Telegram** dos veces al día.
+Incluye bypass de Distil/Imperva con Playwright headed bajo xvfb, deduplicación persistente en SQLite y despliegue automático con Docker + cron.
+
+Stack: **Python 3.12, OpenAI gpt-4o-mini, Playwright, BeautifulSoup, SQLite, Pydantic, Docker**
+
+
+---
+
 ### 🔭 En qué estoy trabajando / aprendiendo
 Actualmente estoy profundizando en:
 - 🔐 **Spring Boot** para seguir profundizando en desarrollo backend moderno.
 - 🐳 **Docker** para despliegue y entornos reproducibles.
 - ⚡ Mejores prácticas en arquitectura **REST** y diseño de APIs limpias.
+-  🤖 **Python + IA** para automatización y agentes autónomos.
 
 ---
 
