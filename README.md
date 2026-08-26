@@ -95,7 +95,7 @@ Blog con gestión completa de publicaciones. Backend en **Spring Boot** con Hibe
 
 ---
 
-#### 📋 [TrainLog](https://github.com/cesarmilan16/trainlog) — gestión de entrenamientos · [🔗](https://trainlog.cesarmilandev.com)
+#### 📋 [TrainLog](https://github.com/cesarmilan16/trainlog) — gestión de entrenamientos · 🔗(https://trainlog.cesarmilandev.com)
 
 Aplicación para entrenadores y clientes: asignación de entrenamientos, registro de ejercicios e histórico de cargas.
 
