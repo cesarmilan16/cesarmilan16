@@ -71,7 +71,7 @@ Incluye bypass de Distil/Imperva con Playwright headed bajo xvfb, deduplicación
 
 ---
 
-#### 🏋️ [TrainIA](https://github.com/cesarmilan16/trainia) — generación de planes con IA · [🔗](https://trainingia.cesarmilandev.com)
+#### 🏋️ [TrainIA](https://github.com/cesarmilan16/trainia) — generación de planes con IA · 🔗(https://trainingia.cesarmilandev.com)
 
 Aplicación full-stack que genera planes de entrenamiento personalizados con IA. El backend procesa las solicitudes de forma **asíncrona** con estados `GENERATING`, `COMPLETED` y `FAILED`, y valida las entradas con Zod.
 
@@ -79,7 +79,7 @@ Aplicación full-stack que genera planes de entrenamiento personalizados con IA.
 
 ---
 
-#### 🛒 [3D Figures Store](https://github.com/cesarmilan16/ecommerce3d-next) — e-commerce para cliente · [🔗](https://3dhispalis.com)
+#### 🛒 [3D Figures Store](https://github.com/cesarmilan16/ecommerce3d-next) — e-commerce para cliente · 🔗(https://3dhispalis.com)
 
 Tienda de figuras impresas en 3D con catálogo por categorías, carrito, área de usuario y pagos con Stripe. Gestión de productos desde **Strapi** como CMS headless y almacenamiento de imágenes en **AWS S3**.
 
@@ -87,7 +87,7 @@ Tienda de figuras impresas en 3D con catálogo por categorías, carrito, área d
 
 ---
 
-#### 🗒️ [Blog Full-Stack](https://github.com/cesarmilan16/blog-serv) — API REST con Spring Boot
+#### 🗒️ [Blog Full-Stack](https://github.com/cesarmilan16/blog-serv) — API REST con Spring Boot · 🔗(https://blog-helloworld.cesarmilandev.com)
 
 Blog con gestión completa de publicaciones. Backend en **Spring Boot** con Hibernate/JPA sobre MySQL y frontend en Angular consumiendo la API, con arquitectura desacoplada.
 
