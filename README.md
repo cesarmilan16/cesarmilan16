@@ -1,127 +1,133 @@
-<!-- README perfil César Fernández Milán -->
+<h1 align="center">👋 Soy César Fernández Milán</h1>
 
-<h1 align="center">👋 ¡Hola! Soy César Fernández Milán</h1>
+<h3 align="center">Full Stack Developer · React · Next.js · Node.js · Express</h3>
 
-<h3 align="center">💻 Desarrollador Web Junior | Full-Stack | Graduado en DAW</h3>
+<p align="center">
+  <a href="https://cesarmilandev.com/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/cesarmilan16/">LinkedIn</a> ·
+  <a href="mailto:cesarmilan16@gmail.com">Email</a>
+</p>
 
 ---
 
 ### 🌟 Sobre mí
-Soy un **desarrollador web júnior** apasionado por crear aplicaciones modernas y funcionales.  
-He finalizado el ciclo de **Desarrollo de Aplicaciones Web (DAW)** y dedico mi tiempo a aprender y construir proyectos personales que combinan **backend sólido y frontend intuitivo**.
 
-Mi objetivo actual es **conseguir mi primera experiencia profesional** en el sector IT, aportando ganas, compromiso y una visión full-stack.
+Desarrollador Full Stack con **año y medio de experiencia**: React y Next.js en frontend, Node.js con Express en backend.
+
+Trabajo como freelance entregando aplicaciones web end-to-end para clientes de **desarrollo de software**, **e-commerce**, **asesoría deportiva** e **inmobiliario**: interfaz, API REST, base de datos y despliegue. En los últimos proyectos integro **modelos de IA** y monto **automatizaciones** que conectan servicios.
+
+Busco seguir creciendo dentro del ecosistema **JS/TS con React y Node**.
+
+📍 Sevilla · Movilidad nacional · Inglés intermedio-alto
 
 ---
 
-### 🧠 Tecnologías y herramientas
+### 🧠 Stack
 
 #### 💡 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 🗄️ Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🗄️ Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### ☁️ Herramientas y despliegue
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+#### 🤖 IA aplicada y automatización
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+#### ☁️ Despliegue y calidad
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+<sub>También trabajo con Angular, Java y Spring Boot.</sub>
 
 ---
 
 ### 🚀 Proyectos destacados
 
-#### 🤖 [TrainIA (Angular + Node.js + IA + SQLite)](https://github.com/cesarmilan16/trainia)
+#### 🤖 [AgentJobs](https://github.com/cesarmilan16/AgentJobs) — agente autónomo con LLM, en producción
 
-Aplicación full-stack que genera **planes de entrenamiento personalizados utilizando IA**.
-Permite crear entrenamientos a partir de distintos parámetros, consultar un historial, ver el detalle de cada plan y regenerarlo si es necesario.
-El backend procesa las solicitudes de forma **asíncrona** y gestiona estados como `GENERATING`, `COMPLETED` y `FAILED`.
+Agente que recopila ofertas de empleo de **LinkedIn, Indeed, InfoJobs y Tecnoempleo**, las filtra con reglas de descarte y las puntúa del 0 al 100 con IA, notificando solo las relevantes por **Telegram** dos veces al día. Lleva meses corriendo 24/7, no es un experimento.
 
-Stack: **Angular 21, Node.js, Express, Zod, SQLite, OpenAI API, Tailwind CSS, Docker**
-
----
-
-#### 🏋️ [TrainLog (Angular + Node.js + SQLite)](https://github.com/cesarmilan16/trainlog)
-
-Aplicación web para **gestionar entrenamientos entre entrenadores y clientes**.
-Permite crear y asignar entrenamientos, registrar ejercicios y guardar el histórico de cambios de peso para cada ejercicio.
-
-Stack: **Angular, Node.js, Express, SQLite, Docker**
-
----
-
-#### 🗒️ [Blog Full-Stack (Spring Boot + Angular + MySQL)](https://github.com/cesarmilan16/blog-serv)
-
-Aplicación web de tipo blog con gestión completa de publicaciones (crear, editar, eliminar y consultar).
-Backend desarrollado con **Spring Boot (API REST)** y **Hibernate/JPA** para la persistencia en **MySQL**.
-Frontend desarrollado con **Angular**, consumiendo la API mediante HTTP y con una arquitectura desacoplada.
-
-Stack: **Spring Boot, Java, Hibernate, JPA, Angular, MySQL, Docker**
-
----
-
-#### 📝 [To-Do List App (Spring Boot MVC + Thymeleaf + MySQL)](https://github.com/cesarmilan16/todolist-spring-mvc)
-
-Aplicación web donde cada usuario puede registrarse, iniciar sesión y gestionar su propia lista de tareas.
-Desarrollada con **Spring Boot MVC**, usando **Hibernate/JPA** para la persistencia y vistas dinámicas con **Thymeleaf**.
-
-Stack: **Spring Boot, Java, Thymeleaf, Hibernate, MySQL**
-
----
-
-#### 🛒 [3D Figures Store (Next.js + Strapi + AWS S3)](https://github.com/cesarmilan16/ecommerce3d-next)
-
-E-commerce para figuras impresas en 3D, con gestión de productos desde el panel de administración (**Strapi**)
-y almacenamiento de imágenes en **AWS S3**.
-
-Stack: **Next.js, React, Strapi, Node.js, AWS S3**
-
-
----
-
-
-#### 🤖 [AgentJobs (Python + OpenAI + Playwright + Docker)](https://github.com/cesarmilan16/AgentJobs)
-
-Agente autónomo que recopila ofertas de empleo de **LinkedIn, Indeed, InfoJobs y Tecnoempleo**, las filtra con reglas de descarte y las puntúa del 0 al 100 con **IA**, notificando solo las más relevantes por **Telegram** dos veces al día.
 Incluye bypass de Distil/Imperva con Playwright headed bajo xvfb, deduplicación persistente en SQLite y despliegue automático con Docker + cron.
 
-Stack: **Python 3.12, OpenAI gpt-4o-mini, Playwright, BeautifulSoup, SQLite, Pydantic, Docker**
-
+`Python 3.12` · `OpenAI gpt-4o-mini` · `Playwright` · `BeautifulSoup` · `SQLite` · `Pydantic` · `Docker`
 
 ---
 
-### 🔭 En qué estoy trabajando / aprendiendo
-Actualmente estoy profundizando en:
-- 🔐 **Spring Boot** para seguir profundizando en desarrollo backend moderno.
-- 🐳 **Docker** para despliegue y entornos reproducibles.
-- ⚡ Mejores prácticas en arquitectura **REST** y diseño de APIs limpias.
--  🤖 **Python + IA** para automatización y agentes autónomos.
+#### 🏋️ [TrainIA](https://github.com/cesarmilan16/trainia) — generación de planes con IA · [demo](https://trainingia.cesarmilandev.com)
+
+Aplicación full-stack que genera planes de entrenamiento personalizados con IA. El backend procesa las solicitudes de forma **asíncrona** con estados `GENERATING`, `COMPLETED` y `FAILED`, y valida las entradas con Zod.
+
+`Angular 21` · `Node.js` · `Express` · `Zod` · `SQLite` · `OpenAI API` · `Tailwind` · `Docker` · `Vitest`
+
+---
+
+#### 🛒 [3D Figures Store](https://github.com/cesarmilan16/ecommerce3d-next) — e-commerce para cliente · [demo](https://3dhispalis.com)
+
+Tienda de figuras impresas en 3D con catálogo por categorías, carrito, área de usuario y pagos con Stripe. Gestión de productos desde **Strapi** como CMS headless y almacenamiento de imágenes en **AWS S3**.
+
+`Next.js` · `React` · `Strapi` · `Node.js` · `AWS S3` · `Stripe`
+
+---
+
+#### 🗒️ [Blog Full-Stack](https://github.com/cesarmilan16/blog-serv) — API REST con Spring Boot
+
+Blog con gestión completa de publicaciones. Backend en **Spring Boot** con Hibernate/JPA sobre MySQL y frontend en Angular consumiendo la API, con arquitectura desacoplada.
+
+`Spring Boot` · `Java` · `Hibernate/JPA` · `Angular` · `MySQL` · `Docker`
+
+---
+
+#### 📋 [TrainLog](https://github.com/cesarmilan16/trainlog) — gestión de entrenamientos
+
+Aplicación para entrenadores y clientes: asignación de entrenamientos, registro de ejercicios e histórico de cargas.
+
+`Angular` · `Node.js` · `Express` · `SQLite` · `Docker`
+
+---
+
+### 🎓 Formación y certificaciones
+
+- **Curso de Especialización en IA y Big Data** — IES Zaidín-Vergeles · 2026-2027
+- **Curso Superior Full Stack** — Deusto Formación · 2025-2026
+- **Grado Superior en Desarrollo de Aplicaciones Web** — FP Euroformac · 2023-2025
+- Associate AI Engineer for Developers — DataCamp
+- Oracle Cloud Infrastructure Foundations Associate
+- Claude Code 101 — Anthropic
+
+---
+
+### 🔭 En qué estoy ahora
+
+- **IA aplicada**: RAG, embeddings y agentes sobre datos propios.
+- **Arquitectura de APIs** y patrones de validación en el límite entre LLM y sistema determinista.
+- **Inglés** hacia el B2.
 
 ---
 
 ### 🤝 Contacto
 
-📫 **Email:** [cesarmilan16@gmail]  
-🌐 **Portfolio:** [[https://cesarmilandev.com/](https://cesarmilandev.com/)]  
-💼 **LinkedIn:** [https://www.linkedin.com/in/cesarmilan16/]
+📫 **Email:** cesarmilan16@gmail.com
+🌐 **Portfolio:** https://cesarmilandev.com/
+💼 **LinkedIn:** https://www.linkedin.com/in/cesarmilan16/
 
 ---
 
-<h4 align="center">“Code. Learn. Repeat. ⚡”</h4>
-
+<h4 align="center">Code. Learn. Repeat. ⚡</h4>
