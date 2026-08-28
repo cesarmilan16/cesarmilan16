@@ -87,7 +87,7 @@ Tienda de figuras impresas en 3D con catálogo por categorías, carrito, área d
 
 ---
 
-#### 🗒️ [Blog Full-Stack](https://github.com/cesarmilan16/blog-serv) — API REST con Spring Boot · 🔗(https://blog-helloworld.cesarmilandev.com)
+#### 🗒️ [Blog Full-Stack](https://github.com/cesarmilan16/blog-serv) — API REST con Spring Boot
 
 Blog con gestión completa de publicaciones. Backend en **Spring Boot** con Hibernate/JPA sobre MySQL y frontend en Angular consumiendo la API, con arquitectura desacoplada.
 
